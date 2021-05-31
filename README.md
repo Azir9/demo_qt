@@ -1,8 +1,13 @@
 # tcp/ip& qt
 
 ## ui
-文件有两个界面，分别是客户端和服务器端
 
-## data：2020/5/31
+clint & server
+
+## data
+2020/5/31
+
+## Author
+taqiyya
 qq：2221624731
-有bug请指出，参数不明请指出
+ 
